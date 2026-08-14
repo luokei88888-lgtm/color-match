@@ -1,0 +1,1566 @@
+[
+  {
+    "id": 1,
+    "width": 8,
+    "height": 8,
+    "moves": 29,
+    "gemTypes": 4,
+    "goal": {
+      "type": "score",
+      "target": 1000
+    },
+    "stars": [
+      950,
+      1700,
+      2750
+    ],
+    "layout": null
+  },
+  {
+    "id": 2,
+    "width": 8,
+    "height": 8,
+    "moves": 28,
+    "gemTypes": 4,
+    "goal": {
+      "type": "score",
+      "target": 1200
+    },
+    "stars": [
+      1100,
+      1900,
+      3000
+    ],
+    "layout": null
+  },
+  {
+    "id": 3,
+    "width": 8,
+    "height": 8,
+    "moves": 27,
+    "gemTypes": 5,
+    "goal": {
+      "type": "score",
+      "target": 1400
+    },
+    "stars": [
+      1250,
+      2100,
+      3250
+    ],
+    "layout": null
+  },
+  {
+    "id": 4,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "score",
+      "target": 1600
+    },
+    "stars": [
+      1400,
+      2300,
+      3500
+    ],
+    "layout": null
+  },
+  {
+    "id": 5,
+    "width": 8,
+    "height": 8,
+    "moves": 25,
+    "gemTypes": 6,
+    "goal": {
+      "type": "score",
+      "target": 1800
+    },
+    "stars": [
+      1550,
+      2500,
+      3750
+    ],
+    "layout": null
+  },
+  {
+    "id": 6,
+    "width": 8,
+    "height": 8,
+    "moves": 28,
+    "gemTypes": 5,
+    "goal": {
+      "type": "breakIce",
+      "target": 6
+    },
+    "stars": [
+      1000,
+      2200,
+      3600
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "width": 8,
+    "height": 8,
+    "moves": 27,
+    "gemTypes": 5,
+    "goal": {
+      "type": "breakIce",
+      "target": 8
+    },
+    "stars": [
+      1000,
+      2200,
+      3600
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "breakIce",
+      "target": 10
+    },
+    "stars": [
+      1000,
+      2200,
+      3600
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "width": 8,
+    "height": 8,
+    "moves": 25,
+    "gemTypes": 5,
+    "goal": {
+      "type": "breakIce",
+      "target": 12
+    },
+    "stars": [
+      1000,
+      2200,
+      3600
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "width": 8,
+    "height": 8,
+    "moves": 24,
+    "gemTypes": 5,
+    "goal": {
+      "type": "breakIce",
+      "target": 14
+    },
+    "stars": [
+      1000,
+      2200,
+      3600
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "collectColor",
+      "target": 15,
+      "color": 0
+    },
+    "stars": [
+      1200,
+      2500,
+      4000
+    ],
+    "layout": null
+  },
+  {
+    "id": 12,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "collectColor",
+      "target": 18,
+      "color": 1
+    },
+    "stars": [
+      1200,
+      2500,
+      4000
+    ],
+    "layout": null
+  },
+  {
+    "id": 13,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "collectColor",
+      "target": 21,
+      "color": 2
+    },
+    "stars": [
+      1200,
+      2500,
+      4000
+    ],
+    "layout": null
+  },
+  {
+    "id": 14,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "collectColor",
+      "target": 24,
+      "color": 3
+    },
+    "stars": [
+      1200,
+      2500,
+      4000
+    ],
+    "layout": null
+  },
+  {
+    "id": 15,
+    "width": 8,
+    "height": 8,
+    "moves": 26,
+    "gemTypes": 5,
+    "goal": {
+      "type": "collectColor",
+      "target": 27,
+      "color": 4
+    },
+    "stars": [
+      1200,
+      2500,
+      4000
+    ],
+    "layout": null
+  },
+  {
+    "id": 16,
+    "width": 8,
+    "height": 8,
+    "moves": 24,
+    "gemTypes": 6,
+    "goal": {
+      "type": "score",
+      "target": 2000
+    },
+    "stars": [
+      1800,
+      3200,
+      5000
+    ],
+    "layout": null
+  },
+  {
+    "id": 17,
+    "width": 8,
+    "height": 8,
+    "moves": 24,
+    "gemTypes": 6,
+    "goal": {
+      "type": "score",
+      "target": 2400
+    },
+    "stars": [
+      1800,
+      3200,
+      5000
+    ],
+    "layout": null
+  },
+  {
+    "id": 18,
+    "width": 8,
+    "height": 8,
+    "moves": 24,
+    "gemTypes": 6,
+    "goal": {
+      "type": "score",
+      "target": 2800
+    },
+    "stars": [
+      1800,
+      3200,
+      5000
+    ],
+    "layout": null
+  },
+  {
+    "id": 19,
+    "width": 8,
+    "height": 8,
+    "moves": 24,
+    "gemTypes": 6,
+    "goal": {
+      "type": "score",
+      "target": 3200
+    },
+    "stars": [
+      1800,
+      3200,
+      5000
+    ],
+    "layout": null
+  },
+  {
+    "id": 20,
+    "width": 8,
+    "height": 8,
+    "moves": 24,
+    "gemTypes": 6,
+    "goal": {
+      "type": "score",
+      "target": 3600
+    },
+    "stars": [
+      1800,
+      3200,
+      5000
+    ],
+    "layout": null
+  },
+  {
+    "id": 21,
+    "width": 8,
+    "height": 8,
+    "moves": 22,
+    "gemTypes": 6,
+    "goal": {
+      "type": "breakIce",
+      "target": 12
+    },
+    "stars": [
+      1500,
+      3000,
+      4800
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "width": 8,
+    "height": 8,
+    "moves": 22,
+    "gemTypes": 6,
+    "goal": {
+      "type": "breakIce",
+      "target": 14
+    },
+    "stars": [
+      1500,
+      3000,
+      4800
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "width": 8,
+    "height": 8,
+    "moves": 22,
+    "gemTypes": 6,
+    "goal": {
+      "type": "breakIce",
+      "target": 16
+    },
+    "stars": [
+      1500,
+      3000,
+      4800
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "width": 8,
+    "height": 8,
+    "moves": 22,
+    "gemTypes": 6,
+    "goal": {
+      "type": "breakIce",
+      "target": 18
+    },
+    "stars": [
+      1500,
+      3000,
+      4800
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "width": 8,
+    "height": 8,
+    "moves": 22,
+    "gemTypes": 6,
+    "goal": {
+      "type": "breakIce",
+      "target": 20
+    },
+    "stars": [
+      1500,
+      3000,
+      4800
+    ],
+    "layout": [
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 2
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {
+          "obstacle": 1,
+          "iceLayers": 1
+        },
+        {},
+        {},
+        {}
+      ],
+      [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "width": 8,
+    "height": 8,
+    "moves": 20,
+    "gemTypes": 6,
+    "goal": {
+      "type": "collectColor",
+      "target": 20,
+      "color": 0
+    },
+    "stars": [
+      2000,
+      3500,
+      5500
+    ],
+    "layout": null
+  },
+  {
+    "id": 27,
+    "width": 8,
+    "height": 8,
+    "moves": 20,
+    "gemTypes": 6,
+    "goal": {
+      "type": "collectColor",
+      "target": 22,
+      "color": 1
+    },
+    "stars": [
+      2000,
+      3500,
+      5500
+    ],
+    "layout": null
+  },
+  {
+    "id": 28,
+    "width": 8,
+    "height": 8,
+    "moves": 20,
+    "gemTypes": 6,
+    "goal": {
+      "type": "collectColor",
+      "target": 24,
+      "color": 2
+    },
+    "stars": [
+      2000,
+      3500,
+      5500
+    ],
+    "layout": null
+  },
+  {
+    "id": 29,
+    "width": 8,
+    "height": 8,
+    "moves": 20,
+    "gemTypes": 6,
+    "goal": {
+      "type": "collectColor",
+      "target": 26,
+      "color": 3
+    },
+    "stars": [
+      2000,
+      3500,
+      5500
+    ],
+    "layout": null
+  },
+  {
+    "id": 30,
+    "width": 8,
+    "height": 8,
+    "moves": 20,
+    "gemTypes": 6,
+    "goal": {
+      "type": "collectColor",
+      "target": 28,
+      "color": 4
+    },
+    "stars": [
+      2000,
+      3500,
+      5500
+    ],
+    "layout": null
+  }
+]

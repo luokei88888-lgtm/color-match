@@ -1,0 +1,51 @@
+{
+  "name": "color-match",
+  "private": true,
+  "version": "1.0.0",
+  "description": "彩珠消消 - 多主题三消小游戏",
+  "author": "color-match",
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "app:start": "electron .",
+    "app:dist": "npm run build && electron-builder --win nsis"
+  },
+  "build": {
+    "appId": "com.colormatch.game",
+    "productName": "彩珠消消",
+    "electronDist": "node_modules/electron/dist",
+    "files": [
+      "dist/**",
+      "electron/**"
+    ],
+    "directories": {
+      "output": "release"
+    },
+    "win": {
+      "target": "nsis",
+      "artifactName": "ColorMatch-Setup-${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "彩珠消消"
+    }
+  },
+  "dependencies": {
+    "phaser": "^3.87.0"
+  },
+  "devDependencies": {
+    "electron": "^43.4.0",
+    "electron-builder": "^26.15.3",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.11",
+    "vitest": "^3.0.5"
+  }
+}
